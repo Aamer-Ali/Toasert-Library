@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ToastLibrary</string>
+    <string name="default_msg">This is the default msg</string>
 </resources>
